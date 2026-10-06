@@ -22,14 +22,14 @@ cd ISRPO_Lab03
 dotnet build
 ```
 
-##Использование
+## Использование 
 bash dotnet run
 
-##Системные требования
+## Системные требования
 1. .NET Core 8.0 или выше
 2. База данных SSMS
 
-##Контрибьютинг
+## Контрибьютинг
 1.Создайте ветку от main: git checkout -b feature/your-feature-name
 2.Следуйте стилю кода:
 	C#: CamelCase для классов и методов, camelCase для переменных
