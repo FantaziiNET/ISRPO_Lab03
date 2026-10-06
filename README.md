@@ -26,8 +26,8 @@ dotnet build
 bash dotnet run
 
 ## Системные требования
-1. .NET Core 8.0 или выше
-2. База данных SSMS
+1. .NET 10.0 или выше
+2. СУБД SQL Server 17
 
 ## Контрибьютинг
 1. Создайте ветку от main: git checkout -b feature/your-feature-name
