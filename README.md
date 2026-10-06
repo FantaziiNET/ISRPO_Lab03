@@ -20,6 +20,7 @@
 git clone https://github.com/FantaziiNET/ISRPO_Lab03
 cd ISRPO_Lab03
 dotnet build
+```
 
 ##Использование
 bash dotnet run
